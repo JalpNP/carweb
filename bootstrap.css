@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin-bottom: 0;
+  }
+  
+
+.image{
+    position: relative;
+}
+
+
+.text-center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background-color: blue;
+}
+
+
+
+.badge bg-primary text-wrap{
+position: absolute;
+top: 50%;
+left: 50%;
+}
